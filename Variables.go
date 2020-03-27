@@ -9,5 +9,4 @@ func main() {
 	fmt.Println(myName)
 	myName = "Uriel"
 	fmt.Println(myName)
-
 }
