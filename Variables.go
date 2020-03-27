@@ -7,5 +7,7 @@ func main() {
 	fmt.Println(x + y + z)
 	myName := "Cesar"
 	fmt.Println(myName)
+	myName = "Uriel"
+	fmt.Println(myName)
 
 }
