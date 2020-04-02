@@ -25,6 +25,5 @@ func main() {
 		fmt.Println("y")
 	}
 
-	fmt.Println("probando")
 	fmt.Println(cesar.nombre_completo())
 }
